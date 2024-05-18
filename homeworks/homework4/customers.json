@@ -1,0 +1,3 @@
+{"_id":{"$oid":"6648b828088e137340063bfe"},"name":"Altun Hasanli","zipcode":"99503","avg_rating":8.3}
+{"_id":{"$oid":"6648b828088e137340063bff"},"name":"Andrei T.","zipcode":"90025","avg_rating":3.5,"last_order":{"year":2009}}
+{"_id":{"$oid":"6648b828088e137340063c00"},"name":"Bela T.","zipcode":"33126","avg_rating":4.9,"last_order":{"year":2019,"tags":["art","melancholy"]}}
